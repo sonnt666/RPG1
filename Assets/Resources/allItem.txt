@@ -1,0 +1,51 @@
+id	name	description	icon	type	rare
+1	Sword	A relic from a bygone era,this sword bears the weight of countless battles.Its edge is as sharp as the warrior's spirit, 	1	5	2
+2	Axe	Imbued with ancient magic, this axe pulses with raw power. Its enchanted blade cleaves through flesh and stone with equal ease, leaving a trail of shimmering energy in its wake.	2	3	2
+3	Dagger	Gleaming with an otherworldly light, this dagger is a symbol of elven craftsmanship. Its razor-sharp blade is coated with a potent poison, making it a deadly weapon in close combat.	3	3	3
+4	Spear	Forged from the bones of a mighty dragon, this spear is a testament to the power of humanity. Its tip is as hard as dragon scales, and its shaft is strong enough to withstand the blows of even the most formidable foe.	4	3	2
+5	Bow	Crafted from the finest yew wood, this bow is a marvel of precision. Its string sings with power as it releases arrows that fly with deadly accuracy.	5	5	2
+6	Arrow	Fletched with feathers from a rare sunbird, this arrow is imbued with radiant energy. It pierces through darkness and shatters illusions, revealing the true nature of things.	6	3	1
+7	Shield	Impenetrable to flame and claw, this shield is a symbol of unwavering defense. Its surface is adorned with intricate runes that deflect magical attacks.	7	4	2
+8	Helmet	Adorned with the horns of a mighty bull, this helm inspires courage in its wearer. It grants resistance to fear and bolsters the wearer's determination in battle.	8	5	1
+9	Armor	Woven from the threads of ancient trees, this armor is as light as a whisper yet as strong as steel. It grants the wearer enhanced agility and resilience.	9	3	3
+10	Potion	A concoction of rare herbs and mystical essence, this potion mends wounds and restores vitality. Its effects are swift and potent, bringing the brink of death back from the precipice.	10	5	2
+11	Grenade	A volatile sphere of concentrated energy, this grenade unleashes a devastating blast upon impact. Its fiery explosion scatters shrapnel and leaves a lingering cloud of toxic fumes.	11	1	1
+12	Rocket Launcher	A weapon of immense destructive power, this launcher fires rockets that soar through the air and detonate with thunderous force. It is capable of leveling entire structures and reducing enemy forces to smoldering ruins.	12	1	2
+13	Machine Gun	A relentless torrent of bullets spews from this rapid-fire weapon, tearing through foes with unrelenting precision. Its high rate of fire and devastating damage make it a formidable weapon in close quarters.	13	4	1
+14	Sniper Rifle	A silent assassin's tool, this rifle delivers deadly precision from afar. Its whisper-quiet operation allows the marksman to remain undetected, eliminating targets with pinpoint accuracy.	14	2	2
+15	Shotgun	A close-quarters terror, this shotgun unleashes a spread of pellets that devastate at close range. Its brutal force and knockback effect make it a formidable weapon for clearing out enemy rooms.	15	5	3
+16	Wood	Imbued with the power of nature, this axe swings with the force of a mighty storm. Its enchanted blade can fell towering trees and cleave through solid rock with ease.	16	5	1
+17	Stone	A sturdy tool for extracting precious resources from the earth, this pickaxe is essential for any adventurer seeking fortune and glory. Its sharp head can shatter stone and unearth hidden treasures.	17	1	3
+18	Metal	With its razor-sharp teeth, this saw cuts through wood like butter. It is an indispensable tool for gathering lumber, building shelters, and crafting essential items.	18	5	1
+19	Food	A slender pole with a delicate line, this rod is the angler's weapon of choice. It allows the patient fisherman to lure aquatic creatures from the depths of lakes and rivers.	19	4	2
+20	Water	A detailed rendering of the surrounding terrain, this map guides the explorer through uncharted territories. It reveals hidden landmarks, marks potential dangers, and charts the path to adventure.	20	4	1
+21	Seeds	Always pointing true north, this compass guides the traveler through even the most disorienting environments. Its unwavering guidance ensures that the explorer never loses their way.	21	5	1
+22	Leather	Piercing through the darkness of underground caverns, this lantern illuminates the path ahead. Its flickering flame reveals hidden dangers and guides the miner towards precious ores and gems.	22	4	3
+23	Cloth	A relic from a bygone era,this sword bears the weight of countless battles.Its edge is as sharp as the warrior's spirit, 	23	1	3
+24	Gems	Imbued with ancient magic, this axe pulses with raw power. Its enchanted blade cleaves through flesh and stone with equal ease, leaving a trail of shimmering energy in its wake.	24	2	3
+25	Minerals	Gleaming with an otherworldly light, this dagger is a symbol of elven craftsmanship. Its razor-sharp blade is coated with a potent poison, making it a deadly weapon in close combat.	25	4	1
+26	Coins	Forged from the bones of a mighty dragon, this spear is a testament to the power of humanity. Its tip is as hard as dragon scales, and its shaft is strong enough to withstand the blows of even the most formidable foe.	26	5	3
+27	Crafting Tools	Crafted from the finest yew wood, this bow is a marvel of precision. Its string sings with power as it releases arrows that fly with deadly accuracy.	27	3	2
+28	Backpack	Fletched with feathers from a rare sunbird, this arrow is imbued with radiant energy. It pierces through darkness and shatters illusions, revealing the true nature of things.	28	3	2
+29	Map	Impenetrable to flame and claw, this shield is a symbol of unwavering defense. Its surface is adorned with intricate runes that deflect magical attacks.	29	2	3
+30	Compass	Adorned with the horns of a mighty bull, this helm inspires courage in its wearer. It grants resistance to fear and bolsters the wearer's determination in battle.	30	3	1
+31	Flashlight	Woven from the threads of ancient trees, this armor is as light as a whisper yet as strong as steel. It grants the wearer enhanced agility and resilience.	31	5	2
+32	Tent	A concoction of rare herbs and mystical essence, this potion mends wounds and restores vitality. Its effects are swift and potent, bringing the brink of death back from the precipice.	32	5	3
+33	Sleeping Bag	A volatile sphere of concentrated energy, this grenade unleashes a devastating blast upon impact. Its fiery explosion scatters shrapnel and leaves a lingering cloud of toxic fumes.	33	3	3
+34	Rope	A weapon of immense destructive power, this launcher fires rockets that soar through the air and detonate with thunderous force. It is capable of leveling entire structures and reducing enemy forces to smoldering ruins.	34	5	2
+35	Grappling Hook	A relentless torrent of bullets spews from this rapid-fire weapon, tearing through foes with unrelenting precision. Its high rate of fire and devastating damage make it a formidable weapon in close quarters.	35	5	1
+36	Binoculars	A silent assassin's tool, this rifle delivers deadly precision from afar. Its whisper-quiet operation allows the marksman to remain undetected, eliminating targets with pinpoint accuracy.	36	5	2
+37	Watch	A close-quarters terror, this shotgun unleashes a spread of pellets that devastate at close range. Its brutal force and knockback effect make it a formidable weapon for clearing out enemy rooms.	37	3	1
+38	Jewelry	Imbued with the power of nature, this axe swings with the force of a mighty storm. Its enchanted blade can fell towering trees and cleave through solid rock with ease.	38	1	1
+39	Clothing	A sturdy tool for extracting precious resources from the earth, this pickaxe is essential for any adventurer seeking fortune and glory. Its sharp head can shatter stone and unearth hidden treasures.	39	2	2
+40	Key	With its razor-sharp teeth, this saw cuts through wood like butter. It is an indispensable tool for gathering lumber, building shelters, and crafting essential items.	40	2	3
+41	Treasure Chest	A slender pole with a delicate line, this rod is the angler's weapon of choice. It allows the patient fisherman to lure aquatic creatures from the depths of lakes and rivers.	41	2	1
+42	Gemstone	A detailed rendering of the surrounding terrain, this map guides the explorer through uncharted territories. It reveals hidden landmarks, marks potential dangers, and charts the path to adventure.	42	4	2
+43	Artifact	Always pointing true north, this compass guides the traveler through even the most disorienting environments. Its unwavering guidance ensures that the explorer never loses their way.	43	2	2
+44	Trophy	Piercing through the darkness of underground caverns, this lantern illuminates the path ahead. Its flickering flame reveals hidden dangers and guides the miner towards precious ores and gems.	44	4	1
+45	Achievement	A relic from a bygone era,this sword bears the weight of countless battles.Its edge is as sharp as the warrior's spirit, 	45	1	2
+46	Currency	Imbued with ancient magic, this axe pulses with raw power. Its enchanted blade cleaves through flesh and stone with equal ease, leaving a trail of shimmering energy in its wake.	46	4	3
+47	Experience Points	Gleaming with an otherworldly light, this dagger is a symbol of elven craftsmanship. Its razor-sharp blade is coated with a potent poison, making it a deadly weapon in close combat.	47	4	3
+48	Upgrade Materials	Forged from the bones of a mighty dragon, this spear is a testament to the power of humanity. Its tip is as hard as dragon scales, and its shaft is strong enough to withstand the blows of even the most formidable foe.	48	3	3
+49	Unique Items	Crafted from the finest yew wood, this bow is a marvel of precision. Its string sings with power as it releases arrows that fly with deadly accuracy.	49	4	3
+50	Puzzle Piece	Fletched with feathers from a rare sunbird, this arrow is imbued with radiant energy. It pierces through darkness and shatters illusions, revealing the true nature of things.	50	1	3

@@ -1,0 +1,13 @@
+id	character	content
+1	Player	Chào bạn, cho tôi hỏi đường tới rừng XX
+2	Fox	Bạn muốn tới đó làm gì?
+3	Player	Tôi muốn vào đó hái tý thuốc thôi
+4	Fox	Tôi khuyên bạn không nên tới đó lúc này
+5	Player	Vì sao vậy?
+6	Fox	Hiện tại nơi đó rất nguy hiểm
+7	Fox	Có một con YY mới xuất hiện gần đây
+8	Fox	Nó đã bắt 1 số người …
+9	Player	Yên tâm đi, tôi chỉ đi loanh quanh bên ngoài thôi
+10	Player	Với lại tôi mạnh lắm
+11	Fox	Nếu vậy, hãy đi đánh 10 con ABC, mang XYZ về đây để chứng minh
+12	Fox	Thì tôi sẽ chỉ đường cho

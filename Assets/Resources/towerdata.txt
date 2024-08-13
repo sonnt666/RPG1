@@ -1,0 +1,16 @@
+id	towerName	level	atk	range	atkSpeed	effect	ratio	description	cost
+1	Frost Tower	1	0	1	1	Làm chậm kẻ thù	20	Có tỉ lệ 20% làm chậm kẻ thù	10
+2	Frost Tower	2	15	1	1	Làm chậm kẻ thù	30	Có tỉ lệ 30% làm chậm kẻ thù	10
+3	Frost Tower	3	20	2	1	Làm chậm kẻ thù	40	Có tỉ lệ 40% làm chậm kẻ thù	10
+4	Gun Tower	1	20	3	3	0	0	0	10
+5	Gun Tower	2	30	4	3	0	0	0	10
+6	Gun Tower	3	40	5	4	0	0	0	10
+7	Production Tower	1	0	0	0	Tạo ra tài nguyên theo thời gian	5	Tạo ra 5 coin/s	10
+8	Production Tower	2	0	0	0	Tạo ra tài nguyên theo thời gian	10	Tạo ra 10 coin/s	10
+9	Production Tower	3	0	0	0	Tạo ra tài nguyên theo thời gian	20	Tạo ra 20 coin/s	10
+10	Barracks Tower	1	0	0	2	Sinh ra lính	2	Mỗi lần tạo ra 2 lính	10
+11	Barracks Tower	2	0	0	3	Sinh ra lính	3	Mỗi lần tạo ra 3 lính	10
+12	Barracks Tower	3	0	0	4	Sinh ra lính	5	Mỗi lần tạo ra 5 lính	10
+13	Poison Tower	1	2	2	2	Gây ra độc hại theo thời gian	5	Tấn công độc, gây ra 5 sát thương mỗi giây lên kẻ địch	10
+14	Poison Tower	2	3	3	2	Gây ra độc hại theo thời gian	10	Tấn công độc, gây ra 10 sát thương mỗi giây lên kẻ địch	10
+15	Poison Tower	3	4	4	3	Gây ra độc hại theo thời gian	20	Tấn công độc, gây ra 20 sát thương mỗi giây lên kẻ địch	10
