@@ -4,12 +4,17 @@ using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Networking;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+
 public class DangNhapTaiKhoan : MonoBehaviour
 {
-    public TMP_InputField user;
-    public TMP_InputField passwd;
+    public TMP_InputField username;
+    public TMP_InputField password;
     public TextMeshProUGUI thongbao;
-
+    //chuyển đăng nhập với đăng kí
+    public Button chuyendk;
+    public GameObject dangnhap;
 
 
 
@@ -17,43 +22,57 @@ public class DangNhapTaiKhoan : MonoBehaviour
     {
         StartCoroutine(DangNhap());
     }
-
     IEnumerator DangNhap()
     {
         WWWForm form = new WWWForm();
-        form.AddField("user", user.text);
-        form.AddField("passwd", passwd.text);
+        form.AddField("user", username.text);
+        form.AddField("passwd", password.text);
 
         UnityWebRequest www = UnityWebRequest.Post("https://fpl.expvn.com/dangnhap.php", form);
-        yield return www.SendWebRequest(); //chờ phản hồi từ máy chủ
-
+        yield return www.SendWebRequest();
         if (!www.isDone)
         {
             thongbao.text = "Kết nối không thành công";
+
         }
         else
         {
             string get = www.downloadHandler.text;
-
-            if(get == "empty")
+            if (get == "empty")
             {
-                thongbao.text = "Các trường không được để trống";
-            }else if(get == "" || get == null)
+                thongbao.text = "Các thông tin không được để trống";
+            }
+            else if (get == "" || get == null)
             {
-                thongbao.text = "Tài khoản hoặc mật khẩu không đúng";
-            }else if (get.Contains("Lỗi"))
+                thongbao.text = "Tài khoản hoặc mật khẩu không chính xác";
+            }
+            else if (get.Contains("Lỗi"))
             {
-                thongbao.text = "không kết nối được server";
+                thongbao.text = "Không kết nối được tới server";
             }
             else
             {
                 thongbao.text = "Đăng nhập thành công";
                 PlayerPrefs.SetString("token", get);
+                Debug.Log(get);
+                SceneManager.LoadScene(1);
             }
-
-            string token = PlayerPrefs.GetString("token");
-            Debug.Log(token);
         }
     }
-    
+    void Start()
+    {
+        chuyendk.onClick.AddListener(SwitchForm);
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
+    public void SwitchForm()
+    {
+        dangnhap.SetActive(!dangnhap.activeSelf);
+    }
 }
+    
+
